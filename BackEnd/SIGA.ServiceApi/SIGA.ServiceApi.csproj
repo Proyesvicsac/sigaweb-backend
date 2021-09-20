@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.17" />
+    <PackageReference Include="NetCore.AutoRegisterDi" Version="2.1.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.1.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SIGA.Common\SIGA.Common.csproj" />
+    <ProjectReference Include="..\SIGA.DTO\SIGA.DTO.csproj" />
+    <ProjectReference Include="..\SIGA.Logic\SIGA.Logic.csproj" />
+    <ProjectReference Include="..\SIGA.Mapper\SIGA.Mapper.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="SIGA.ServiceApi.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+
+</Project>

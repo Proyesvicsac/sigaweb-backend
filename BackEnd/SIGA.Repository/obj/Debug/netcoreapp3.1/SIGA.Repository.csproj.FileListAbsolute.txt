@@ -1,0 +1,12 @@
+C:\Users\jguerra\Downloads\Freelance\EVISAC\APP\SIGA\BackEnd\SIGA.Repository\bin\Debug\netcoreapp3.1\SIGA.Repository.deps.json
+C:\Users\jguerra\Downloads\Freelance\EVISAC\APP\SIGA\BackEnd\SIGA.Repository\bin\Debug\netcoreapp3.1\SIGA.Repository.dll
+C:\Users\jguerra\Downloads\Freelance\EVISAC\APP\SIGA\BackEnd\SIGA.Repository\bin\Debug\netcoreapp3.1\SIGA.Repository.pdb
+C:\Users\jguerra\Downloads\Freelance\EVISAC\APP\SIGA\BackEnd\SIGA.Repository\bin\Debug\netcoreapp3.1\SIGA.Entity.dll
+C:\Users\jguerra\Downloads\Freelance\EVISAC\APP\SIGA\BackEnd\SIGA.Repository\bin\Debug\netcoreapp3.1\SIGA.Entity.pdb
+C:\Users\jguerra\Downloads\Freelance\EVISAC\APP\SIGA\BackEnd\SIGA.Repository\obj\Debug\netcoreapp3.1\SIGA.Repository.csprojAssemblyReference.cache
+C:\Users\jguerra\Downloads\Freelance\EVISAC\APP\SIGA\BackEnd\SIGA.Repository\obj\Debug\netcoreapp3.1\SIGA.Repository.AssemblyInfoInputs.cache
+C:\Users\jguerra\Downloads\Freelance\EVISAC\APP\SIGA\BackEnd\SIGA.Repository\obj\Debug\netcoreapp3.1\SIGA.Repository.AssemblyInfo.cs
+C:\Users\jguerra\Downloads\Freelance\EVISAC\APP\SIGA\BackEnd\SIGA.Repository\obj\Debug\netcoreapp3.1\SIGA.Repository.csproj.CoreCompileInputs.cache
+C:\Users\jguerra\Downloads\Freelance\EVISAC\APP\SIGA\BackEnd\SIGA.Repository\obj\Debug\netcoreapp3.1\SIGA.Repository.csproj.CopyComplete
+C:\Users\jguerra\Downloads\Freelance\EVISAC\APP\SIGA\BackEnd\SIGA.Repository\obj\Debug\netcoreapp3.1\SIGA.Repository.dll
+C:\Users\jguerra\Downloads\Freelance\EVISAC\APP\SIGA\BackEnd\SIGA.Repository\obj\Debug\netcoreapp3.1\SIGA.Repository.pdb

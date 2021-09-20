@@ -1,0 +1,9 @@
+C:\Users\jguerra\Downloads\Freelance\EVISAC\APP\SIGA\BackEnd\SIGA.DTO\bin\Debug\netcoreapp3.1\SIGA.DTO.deps.json
+C:\Users\jguerra\Downloads\Freelance\EVISAC\APP\SIGA\BackEnd\SIGA.DTO\bin\Debug\netcoreapp3.1\SIGA.DTO.dll
+C:\Users\jguerra\Downloads\Freelance\EVISAC\APP\SIGA\BackEnd\SIGA.DTO\bin\Debug\netcoreapp3.1\SIGA.DTO.pdb
+C:\Users\jguerra\Downloads\Freelance\EVISAC\APP\SIGA\BackEnd\SIGA.DTO\obj\Debug\netcoreapp3.1\SIGA.DTO.AssemblyInfoInputs.cache
+C:\Users\jguerra\Downloads\Freelance\EVISAC\APP\SIGA\BackEnd\SIGA.DTO\obj\Debug\netcoreapp3.1\SIGA.DTO.AssemblyInfo.cs
+C:\Users\jguerra\Downloads\Freelance\EVISAC\APP\SIGA\BackEnd\SIGA.DTO\obj\Debug\netcoreapp3.1\SIGA.DTO.csproj.CoreCompileInputs.cache
+C:\Users\jguerra\Downloads\Freelance\EVISAC\APP\SIGA\BackEnd\SIGA.DTO\obj\Debug\netcoreapp3.1\SIGA.DTO.dll
+C:\Users\jguerra\Downloads\Freelance\EVISAC\APP\SIGA\BackEnd\SIGA.DTO\obj\Debug\netcoreapp3.1\SIGA.DTO.pdb
+C:\Users\jguerra\Downloads\Freelance\EVISAC\APP\SIGA\BackEnd\SIGA.DTO\obj\Debug\netcoreapp3.1\SIGA.DTO.csprojAssemblyReference.cache

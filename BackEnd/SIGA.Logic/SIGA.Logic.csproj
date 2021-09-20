@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SIGA.Common\SIGA.Common.csproj" />
+    <ProjectReference Include="..\SIGA.DTO\SIGA.DTO.csproj" />
+    <ProjectReference Include="..\SIGA.Entity\SIGA.Entity.csproj" />
+    <ProjectReference Include="..\SIGA.Repository\SIGA.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

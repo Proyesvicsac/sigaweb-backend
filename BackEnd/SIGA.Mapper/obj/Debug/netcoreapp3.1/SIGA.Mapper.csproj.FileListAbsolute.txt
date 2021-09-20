@@ -1,0 +1,14 @@
+C:\Users\jguerra\Downloads\Freelance\EVISAC\APP\SIGA\BackEnd\SIGA.Mapper\bin\Debug\netcoreapp3.1\SIGA.Mapper.deps.json
+C:\Users\jguerra\Downloads\Freelance\EVISAC\APP\SIGA\BackEnd\SIGA.Mapper\bin\Debug\netcoreapp3.1\SIGA.Mapper.dll
+C:\Users\jguerra\Downloads\Freelance\EVISAC\APP\SIGA\BackEnd\SIGA.Mapper\bin\Debug\netcoreapp3.1\SIGA.Mapper.pdb
+C:\Users\jguerra\Downloads\Freelance\EVISAC\APP\SIGA\BackEnd\SIGA.Mapper\bin\Debug\netcoreapp3.1\SIGA.DTO.dll
+C:\Users\jguerra\Downloads\Freelance\EVISAC\APP\SIGA\BackEnd\SIGA.Mapper\bin\Debug\netcoreapp3.1\SIGA.Entity.dll
+C:\Users\jguerra\Downloads\Freelance\EVISAC\APP\SIGA\BackEnd\SIGA.Mapper\bin\Debug\netcoreapp3.1\SIGA.DTO.pdb
+C:\Users\jguerra\Downloads\Freelance\EVISAC\APP\SIGA\BackEnd\SIGA.Mapper\bin\Debug\netcoreapp3.1\SIGA.Entity.pdb
+C:\Users\jguerra\Downloads\Freelance\EVISAC\APP\SIGA\BackEnd\SIGA.Mapper\obj\Debug\netcoreapp3.1\SIGA.Mapper.csprojAssemblyReference.cache
+C:\Users\jguerra\Downloads\Freelance\EVISAC\APP\SIGA\BackEnd\SIGA.Mapper\obj\Debug\netcoreapp3.1\SIGA.Mapper.AssemblyInfoInputs.cache
+C:\Users\jguerra\Downloads\Freelance\EVISAC\APP\SIGA\BackEnd\SIGA.Mapper\obj\Debug\netcoreapp3.1\SIGA.Mapper.AssemblyInfo.cs
+C:\Users\jguerra\Downloads\Freelance\EVISAC\APP\SIGA\BackEnd\SIGA.Mapper\obj\Debug\netcoreapp3.1\SIGA.Mapper.csproj.CoreCompileInputs.cache
+C:\Users\jguerra\Downloads\Freelance\EVISAC\APP\SIGA\BackEnd\SIGA.Mapper\obj\Debug\netcoreapp3.1\SIGA.Mapper.csproj.CopyComplete
+C:\Users\jguerra\Downloads\Freelance\EVISAC\APP\SIGA\BackEnd\SIGA.Mapper\obj\Debug\netcoreapp3.1\SIGA.Mapper.dll
+C:\Users\jguerra\Downloads\Freelance\EVISAC\APP\SIGA\BackEnd\SIGA.Mapper\obj\Debug\netcoreapp3.1\SIGA.Mapper.pdb
